@@ -31,4 +31,4 @@ jobs:
           format: 'github'
           output: 'dependency-results.sbom.json'
           image-ref: '.'
-          github-pat: ${{ secrets.TOKEN }}
+          github-pat: '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'
