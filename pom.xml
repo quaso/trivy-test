@@ -14,7 +14,7 @@
         <version>2.7.5</version>
     </parent>
          
-         <properties>
+     <properties>
         <revision>0-SNAPSHOT</revision>
 
         <java.version>17</java.version>
