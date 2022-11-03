@@ -39,7 +39,7 @@ jobs:
           format: 'github'
           output: 'dependency-results.sbom.json'
           image-ref: '.'
-          github-pat: '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'
+          github-pat: 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
 
       - name: Upload Trivy scan results to GitHub Security tab
         uses: github/codeql-action/upload-sarif@v2
